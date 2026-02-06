@@ -1,27 +1,54 @@
-# Project Title
+# Chandini Bapatla
 
-## Overview
-This project is developed to apply programming concepts in a practical way and solve a simple real-world problem.
+B.Tech Computer Science Engineering student with a strong foundation in
+programming and core computer science subjects. Passionate about learning,
+problem-solving, and building logical solutions.
 
-## Technologies Used
-- Programming Language: Python / Java
-- Database: MySQL (if applicable)
-- Tools: Git, GitHub
+---
 
-## Features
-- Simple and user-friendly
-- Efficient logic
-- Accurate output
+## 🎯 Career Objective
+To secure an internship where I can apply my technical knowledge,
+strengthen practical skills, and gain real-world industry experience.
 
-## How It Works
-- Takes input from the user
-- Processes data using basic logic
-- Displays the output
+---
 
-## Future Improvements
-- Add more features
-- Improve performance
-- Enhance user interface
+## 🎓 Education
+**Bachelor of Technology (B.Tech)**  
+Computer Science Engineering  
+---
 
-## Author
-Chandini Bapatla
+## 💻 Technical Skills
+- **Programming Languages:** Python, C, Java  
+- **Core Subjects:**  
+  - Data Structures and Algorithms  
+  - Operating Systems  
+- **Tools & Platforms:** GitHub, VS Code
+
+---
+
+## 📂 Projects
+### Academic Mini Projects
+- Smart Attendance using IR sensors
+
+---
+
+## 🧠 Strengths
+- Strong logical thinking  
+- Quick learner  
+- Consistent and self-motivated  
+- Good understanding of fundamentals  
+
+---
+
+## 📌 GitHub Purpose
+This GitHub account is used to:
+- Practice programming concepts  
+- Store academic and practice projects  
+- Improve coding and problem-solving skills  
+
+---
+
+## 👩‍💻 Author
+**Chandini Bapatla**  
+
+---
