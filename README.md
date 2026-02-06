@@ -6,18 +6,18 @@ problem-solving, and building logical solutions.
 
 ---
 
-## 🎯 Career Objective
+## Career Objective
 To secure an internship where I can apply my technical knowledge,
 strengthen practical skills, and gain real-world industry experience.
 
 ---
 
-## 🎓 Education
+## Education
 **Bachelor of Technology (B.Tech)**  
 Computer Science Engineering  
 ---
 
-## 💻 Technical Skills
+## Technical Skills
 - **Programming Languages:** Python, C, Java  
 - **Core Subjects:**  
   - Data Structures and Algorithms  
@@ -26,13 +26,13 @@ Computer Science Engineering
 
 ---
 
-## 📂 Projects
+## Projects
 ### Academic Mini Projects
 - Smart Attendance using IR sensors
 
 ---
 
-## 🧠 Strengths
+## Strengths
 - Strong logical thinking  
 - Quick learner  
 - Consistent and self-motivated  
@@ -40,7 +40,7 @@ Computer Science Engineering
 
 ---
 
-## 📌 GitHub Purpose
+## GitHub Purpose
 This GitHub account is used to:
 - Practice programming concepts  
 - Store academic and practice projects  
@@ -48,7 +48,5 @@ This GitHub account is used to:
 
 ---
 
-## 👩‍💻 Author
+## Author
 **Chandini Bapatla**  
-
----
